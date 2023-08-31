@@ -146,6 +146,7 @@ export const AddEvent = () => {
               </FormControl>
               <FormControl mt={4}>
                 <FormLabel>Category</FormLabel>
+                <FormLabel fontSize={12}>Sports, Games, Info</FormLabel>
                 <Input
                   type="text"
                   placeholder="Category ID"
